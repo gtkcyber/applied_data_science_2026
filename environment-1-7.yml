@@ -1,0 +1,22 @@
+name: gtk-bh-ads-1-7
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.13
+  - jupyter
+  - pandas
+  - matplotlib
+  - streamlit
+  - seaborn
+  - scikit-learn
+  - lime
+  - shap
+  - pydotplus
+  - statsmodels
+  - pmdarima
+  - prophet
+  - pip:
+      - apachelogs
+      - user_agents
