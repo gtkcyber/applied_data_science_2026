@@ -1,0 +1,22 @@
+name: gtk-bh-ads-8-10
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.13
+  - tensorflow
+  - keras
+  - pandas
+  - jupyter
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - pip
+  - ipywidgets
+  - ipykernel
+  - pillow
+  - pydotplus
+
+  

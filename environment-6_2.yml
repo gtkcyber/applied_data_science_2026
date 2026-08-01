@@ -1,0 +1,32 @@
+name: gtk-bh-ads-6_2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.13
+  - tensorflow
+  - keras
+  - pandas
+  - jupyter
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - pip
+  - ipywidgets
+  - ipykernel
+  - pillow
+  - pydotplus
+  - pip:
+      - adversarial-robustness-toolbox
+      - langchain
+      - langchain-core
+      - langchain-anthropic
+      - langchain-community
+      - langchain-huggingface
+      - anthropic
+      - python-dotenv
+      - torch
+      - torchvision
+      - sentence-transformers
