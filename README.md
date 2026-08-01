@@ -11,9 +11,15 @@ all with a focus on direct applicability to cyber security.
 
 
 ### Instructors
-
+- Curtis Lambert - Instructor & Data Scientist: curtis@gtkcyber.com
 - Charles Givre - Data Scientist:  charles.givre@gtkcyber.com
-- Summer Rankin - Instuctor & Data Scientist: summer@gtkcyber.com
+
+#### Teaching Assistant
+- Hannah Hesselberg - Teaching Assistant: hannah@gtkcyber.com
+
+## Course Setup
+
+Course setup can be found [here](SETUP.md).
 
 ### Lectures:
 
