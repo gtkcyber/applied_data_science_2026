@@ -18,7 +18,6 @@ dependencies:
   - ipykernel
   - pillow
   - pydotplus
-  - dotenv
   - openai
   - pandasai
   - yellowbrick
@@ -26,5 +25,4 @@ dependencies:
   - art
   - pip:
       - sentence_transformers
-
-  
+      - python-dotenv
